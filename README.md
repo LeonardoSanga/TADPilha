@@ -10,8 +10,7 @@ Projeto desenvolvido para aplicar conhecimento da estrutura de dados pilha.
 ### Execução da função Desempilhar
 ![image](https://user-images.githubusercontent.com/100099053/224518412-a547737d-4d69-4958-83bc-c8ae5fb2a11c.png)
 ### Execução das funções de verificação de presença de elemento e de retorno do elemento do topo.
-![image](https://user-images.githubusercontent.com/100099053/224518426-93197ae4-a1a1-4614-a4c4-2342cf305be3.png)
-
+![image](https://user-images.githubusercontent.com/100099053/224519269-d9232cb6-a1dd-4ea1-a28d-ba30ca63cc77.png)
 
 ## Aplicação de uma Pilha
 A estrutura pilha é de fundamental importância no mundo da
